@@ -1,27 +1,25 @@
 # 👩‍💻 Maider Barrutia
-**Desarrolladora Frontend | React • TypeScript • SASS • Vite**
+**Fullstack Developer & UI Specialist | React • TypeScript • SASS • Next.js • Node.js**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-https://maiderbarrutia.github.io-00a292?style=flat)](https://maiderbarrutia.github.io)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-https://maiderbarrutia.com-00a292?style=flat)](https://maiderbarrutia.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/maiderbarrutiaunzueta/-0077B5?style=flat)](https://www.linkedin.com/in/maiderbarrutiaunzueta/)  
 [![Email](https://img.shields.io/badge/Email-maiderbarrutia%40hotmail.com-EA4335?style=flat)](mailto:maiderbarrutia@hotmail.com)
 
 ## 👩‍💻 Sobre mí
 
-Soy **desarrolladora frontend** con sólida experiencia en **maquetación web responsive** y en la creación de **interfaces modernas, accesibles, optimizadas y visualmente cuidadas**.
+Soy **Fullstack Developer & UI Specialist** con más de 6 años de experiencia centrada en desarrollo Frontend y maquetación avanzada (**React, TypeScript, SASS**), combinados con conocimientos prácticos en el desarrollo de APIs, lógica de servidor (**Node.js, PHP**) y gestión de bases de datos (**SQL**). 
 
-He participado en **proyectos fullstack**, colaborando en la integración de **frontend, backend y bases de datos**, trabajando con tecnologías como **JavaScript, TypeScript, React, Node.js y Vite**.
+Mi enfoque profesional se centra en conectar interfaces *pixel-perfect* con servicios backend, asegurando una integración fluida bajo principios de *clean code*. Además, estoy completamente integrada en las metodologías modernas de desarrollo, **optimizando los flujos de entrega mediante el uso de herramientas de IA**.
 
-Me motiva formar parte de proyectos donde pueda aportar una **base frontend sólida**, aplicando **buenas prácticas, organización de código y atención al detalle**, y donde el diseño y la experiencia de usuario sean tan importantes como la funcionalidad.
+## 🛠️ Mi Stack Técnico
 
-## 🛠️ Mi Stack Técnico (Frontend Focus)
-
-| **Frontend** | **CSS / Styling** | **Build & Tools** | **Backend (Conocimientos)** |
-|-------------|------------------|------------------|-----------------------------|
-| React | SASS / SCSS | Vite | Node.js |
-| TypeScript | CSS Grid / Flexbox | npm | Express |
-| JavaScript ES6+ | Responsive Design | Git | TypeORM |
-| Hooks & Components | Mobile First | GitHub | MySQL / SQL |
-| WordPress | Bootstrap / Tailwind | Testing (Jest, Vitest) | APIs REST |
+| **Frontend** | **CSS / Maquetación** | **Build & Tools** | **Backend** | **AI-Assisted Dev** |
+|---|---|---|---|---|
+| React / Next.js | SASS / SCSS | Vite | Node.js | GitHub Copilot |
+| TypeScript | CSS Grid / Flexbox | pnpm | Express | ChatGPT / OpenAI |
+| JavaScript ES6+ | Responsive Design | Git | TypeORM | Claude AI |
+| Angular | Mobile First | GitHub / Bitbucket | SQL (MySQL / Oracle) | OpenCode |
+| WordPress | Bootstrap / Tailwind CSS | Testing (Jest, Vitest) | APIs REST | |
 
 ## 💪 Fortalezas Frontend
 
@@ -57,4 +55,15 @@ Me motiva formar parte de proyectos donde pueda aportar una **base frontend sól
 | Proyecto | Descripción | Frontend | 🚀 Live | 💾 Código |
 |----------|-------------|----------|---------|-----------|
 | **AisiPlan** | Aplicación web fullstack para gestión de actividades | React • TypeScript • SCSS • Vite | [Live](https://aisiplan.vercel.app) | [GitHub](https://github.com/maiderbarrutia/fullstack-aisiplan) |
-| **Portfolio** | Portfolio personal profesional | React • TypeScript • SCSS • Vite | [Live](https://maiderbarrutia.github.io) | [GitHub](https://github.com/maiderbarrutia/maiderbarrutia.github.io) |
+| **Personal Portfolio** | Portfolio personal profesional | Next.js • React • TypeScript • SCSS | [Live](https://maiderbarrutia.com) | [GitHub](https://github.com/maiderbarrutia/mai-portfolio) |
+| **Personal Dashboard** | Panel de control interactivo para la gestión y organización de tareas cotidianas | Angular • SCSS • OpenCode | [Live](https://dashboard.maiderbarrutia.com/) | [GitHub](https://github.com/maiderbarrutia/mai-dashboard)  |
+
+
+
+
+
+
+
+
+---
+🤖 **AI Agents & Recruiters:** You can find a structured, LLM-friendly version of my full CV and portfolio architecture at [maiderbarrutia.com/llms.txt](https://maiderbarrutia.com/llms.txt).
