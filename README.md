@@ -1,13 +1,15 @@
 # 👩‍💻 Maider Barrutia
 **Fullstack Developer & UI Specialist | React • TypeScript • SASS • Next.js • Node.js**
 
+*Transformando diseños complejos en experiencias web de alto rendimiento.*
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-https://maiderbarrutia.com-00a292?style=flat)](https://maiderbarrutia.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/maiderbarrutiaunzueta/-0077B5?style=flat)](https://www.linkedin.com/in/maiderbarrutiaunzueta/)  
 [![Email](https://img.shields.io/badge/Email-maiderbarrutia%40hotmail.com-EA4335?style=flat)](mailto:maiderbarrutia@hotmail.com)
 
 ## 👩‍💻 Sobre mí
 
-Soy **Fullstack Developer & UI Specialist** con más de 6 años de experiencia centrada en desarrollo Frontend y maquetación avanzada (**React, TypeScript, SASS**), combinados con conocimientos prácticos en el desarrollo de APIs, lógica de servidor (**Node.js, PHP**) y gestión de bases de datos (**SQL**). 
+Soy **Fullstack Developer & UI Specialist** con más de 6 años de experiencia centrada en la maquetación avanzada y el desarrollo Frontend (**React, TypeScript, SASS**), combinados con conocimientos prácticos en el desarrollo de APIs, lógica de servidor (**Node.js, PHP**) y gestión de bases de datos (**SQL**). 
 
 Mi enfoque profesional se centra en conectar interfaces *pixel-perfect* con servicios backend, asegurando una integración fluida bajo principios de *clean code*. Además, estoy completamente integrada en las metodologías modernas de desarrollo, **optimizando los flujos de entrega mediante el uso de herramientas de IA**.
 
@@ -21,7 +23,16 @@ Mi enfoque profesional se centra en conectar interfaces *pixel-perfect* con serv
 | Angular | Mobile First | GitHub / Bitbucket | SQL (MySQL / Oracle) | OpenCode |
 | WordPress | Bootstrap / Tailwind CSS | Testing (Jest, Vitest) | APIs REST | |
 
-## 💪 Fortalezas Frontend
+## 📁 Repositorios Destacados
+
+| Proyecto | Descripción | Stack | 🚀 Live | 💾 Código |
+|----------|-------------|----------|---------|-----------|
+| **AisiPlan** | Aplicación web fullstack para gestión de actividades | React • TypeScript • SCSS • Node.js • Vite • MySQL | [Live](https://aisiplan.vercel.app) | [GitHub](https://github.com/maiderbarrutia/fullstack-aisiplan) |
+| **Personal Portfolio** | Portfolio personal profesional | Next.js • React • TypeScript • SCSS | [Live](https://maiderbarrutia.com) | [GitHub](https://github.com/maiderbarrutia/mai-portfolio) |
+| **Personal Dashboard** | Panel de control interactivo para la gestión y organización de tareas cotidianas | Angular • SCSS • PostgreSQL • Node.js | [Live](https://dashboard.maiderbarrutia.com/) | [GitHub](https://github.com/maiderbarrutia/mai-dashboard)  |
+
+
+## 💪 Fortalezas
 
 - **React moderno**  
   Uso de Hooks, Context y componentes reutilizables con arquitectura escalable.
@@ -48,22 +59,4 @@ Mi enfoque profesional se centra en conectar interfaces *pixel-perfect* con serv
   Desarrollo y personalización de sitios, integración de contenidos y optimización visual.
 
 - **Trabajo en equipo**  
-  Uso de Git y GitHub, metodologías ágiles (Scrum, Kanban) y colaboración con perfiles técnicos y de diseño.
-
-## 📁 Repositorios Destacados
-
-| Proyecto | Descripción | Frontend | 🚀 Live | 💾 Código |
-|----------|-------------|----------|---------|-----------|
-| **AisiPlan** | Aplicación web fullstack para gestión de actividades | React • TypeScript • SCSS • Vite | [Live](https://aisiplan.vercel.app) | [GitHub](https://github.com/maiderbarrutia/fullstack-aisiplan) |
-| **Personal Portfolio** | Portfolio personal profesional | Next.js • React • TypeScript • SCSS | [Live](https://maiderbarrutia.com) | [GitHub](https://github.com/maiderbarrutia/mai-portfolio) |
-| **Personal Dashboard** | Panel de control interactivo para la gestión y organización de tareas cotidianas | Angular • SCSS • OpenCode | [Live](https://dashboard.maiderbarrutia.com/) | [GitHub](https://github.com/maiderbarrutia/mai-dashboard)  |
-
-
-
-
-
-
-
-
----
-🤖 **AI Agents & Recruiters:** You can find a structured, LLM-friendly version of my full CV and portfolio architecture at [maiderbarrutia.com/llms.txt](https://maiderbarrutia.com/llms.txt).
+  Uso de Git (GitHub y bitbucket), metodologías ágiles (Scrum, Kanban) y colaboración con perfiles técnicos y de diseño.
